@@ -1,6 +1,6 @@
 ---
 title: "Disc Retraction"
-date: 2023-08-24T08:21:06+05:30
+date: 2024-08-24T08:21:06+05:30
 ---
 
 We sketch here some more details of the construction of a retraction `$\rho: D^2 \to S^1$` from the disc `$D^2$` to the circle `$S^1$` given a map `$f: D^2 \to D^2$` without fixed points. 
