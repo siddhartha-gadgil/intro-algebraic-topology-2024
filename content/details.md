@@ -25,3 +25,10 @@ If you wish you can instead use `LaTeX` and submit `pdf` files.
 This course was [taught online](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/index.html) in 2021. The [lectures](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/all-lectures/) are online.
 
 Note that students are responsible for all the material covered in the lectures this semester, which is likely to be more than that in the above resources. Experience also suggests that offline lectures are more effective. Thus, it is wise to use the above as supplements, not substitutes, for the lectures.
+
+##### Midterm Examination
+
+* __Date:__ Thursday, September 19, 2024.
+* __Time:__ 9:00 - 11:00 am.
+* __Venue:__ LH-5, Department of Mathematics, IISc.
+* __Weightage:__ 40% of the total marks.
